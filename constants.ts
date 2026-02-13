@@ -11,7 +11,7 @@ export const STORY_BLOCKS: StoryBlock[] = [
     id: 1,
     title: "The Day We Met",
     content: "Do you remember the first time our eyes locked? The world seemed to slow down, and in that crowded room, all I could see was you. It was the beginning of my favorite story.",
-    image: "/public/fist.png" // Replace with your actual filename
+    image: "/fist.png" // Replace with your actual filename
   },
   {
     id: 2,
