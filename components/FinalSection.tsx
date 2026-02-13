@@ -242,7 +242,9 @@ const FinalSection: React.FC = () => {
                         className="flex flex-col items-center text-center z-[100] mt-10"
                     >
                         <h2 className="text-3xl md:text-6xl font-serif text-rose-900 leading-tight mb-6 whitespace-nowrap drop-shadow-sm">
-                            Happy Valentine’s Day, Eca.
+                            Happy
+                            <br></br>
+                            Valentine’s Day, Eca.
                         </h2>
                         <p className="text-rose-700 text-lg md:text-2xl font-light">
                             I’m the luckiest person to have you.
